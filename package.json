@@ -1,0 +1,20 @@
+{
+  "name": "webpack-shell-plugin-simple",
+  "version": "0.0.1",
+  "description": "Run shell commands at specific points during webpack builds",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dexterlb/webpack-shell-plugin-simple.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/dexterlb/webpack-shell-plugin-simple",
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "webpack": "^5.18.0"
+  }
+}
